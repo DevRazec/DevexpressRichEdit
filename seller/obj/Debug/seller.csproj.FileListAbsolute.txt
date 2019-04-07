@@ -1,0 +1,7 @@
+C:\Project\DevRazec\DevexpressRichEdit\seller\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Project\DevRazec\DevexpressRichEdit\seller\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Project\DevRazec\DevexpressRichEdit\seller\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Project\DevRazec\DevexpressRichEdit\seller\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Project\DevRazec\DevexpressRichEdit\seller\bin\roslyn\System.Collections.Immutable.dll
+C:\Project\DevRazec\DevexpressRichEdit\seller\bin\roslyn\System.Reflection.Metadata.dll
+C:\Project\DevRazec\DevexpressRichEdit\seller\bin\roslyn\VBCSCompiler.exe
