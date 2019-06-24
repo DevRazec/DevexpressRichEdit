@@ -9,3 +9,6 @@ We then set some restrictions to prevent the end-user from making changes.
 We do not need to control users or groups changes, everyone has the same permission.
 
 We need to protect some areas of the document.
+
+Demo
+https://richedit.devrazec.com/
